@@ -2,7 +2,7 @@
 I really enjoy designing websites in general and I’m currently learning frontend development.
 
 ## skills
-* Html
+* https://github.com/soroushmdn/soroushmdn/blob/main/html.png Html
 * CSS
 * Javascript 
 
