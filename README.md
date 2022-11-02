@@ -8,11 +8,11 @@ I really enjoy designing websites in general and I’m currently learning fronte
 
 ## Examples of works
  <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/portfolio.png' width='500'>
+  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/portfolio.png' width='400'>
  </a>
  
   <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/irnft.png' width='500'>
+  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/irnft.png' width='400'>
  </a>
  
   <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
