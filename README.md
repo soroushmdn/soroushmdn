@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sorush Karimi
+# Hi there 👋, I'm Soroush Karimi.
 I really enjoy designing websites in general and I’m currently learning frontend development.
 
 ## skills
