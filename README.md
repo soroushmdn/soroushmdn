@@ -21,7 +21,7 @@ I really enjoy designing websites in general and I’m currently learning fronte
  
  
  ## My Github Stats
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soroushmdn)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushmdn&show_icons=true)  
-
-
 
