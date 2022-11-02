@@ -8,19 +8,17 @@ I really enjoy designing websites in general and I’m currently learning fronte
 
 ## Examples of works
  <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/_D__Web20project_BackPack_index.html.png'>
+  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/portfolio.png'>
  </a>
  
   <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src=''>
+  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/irnft.png'>
  </a>
  
   <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src=''>
+  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/techbox.png'>
  </a>
-
-
-
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushmdn&show_icons=true)  
 
 
