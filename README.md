@@ -2,7 +2,7 @@
 I really enjoy designing websites in general and I’m currently learning frontend development.
 
 ## skills
-* <img src='https://github.com/soroushmdn/soroushmdn/blob/main/html.png'> Html
+* <img src='https://github.com/soroushmdn/soroushmdn/blob/main/html.png' height='25' width='25> Html
 * <img src='https://github.com/soroushmdn/soroushmdn/blob/main/css-3.png'> CSS
 * <img src='https://github.com/soroushmdn/soroushmdn/blob/main/js.png'> Javascript 
 
