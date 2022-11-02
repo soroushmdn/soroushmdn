@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Soroush
+### Hi there 👋, my name is Soroush
 #### Design & Development
 ![Design & Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -10,3 +10,9 @@ Skills: HTML / CSS / Js
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soroushmdn)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushmdn&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=soroushmdn)  
+
+![Profile views](https://gpvc.arturio.dev/soroushmdn)  
