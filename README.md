@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Soroush
+# Hi there 👋, my name is Soroush
 #### Design & Development
 ![Design & Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
