@@ -22,7 +22,7 @@ I really enjoy designing websites in general and I’m currently learning fronte
  
  
  ## My Github Stats
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soroushmdn&show_icons=true)  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=soroushmdn)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
