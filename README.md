@@ -7,7 +7,7 @@ I really enjoy designing websites in general and I’m currently learning fronte
 * <img src='https://github.com/soroushmdn/soroushmdn/blob/main/js.png' height='16' width='16'>  Javascript 
 * 
 
-## Examples of Works
+## Examples of Work
  <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
   <img src='https://github.com/soroushmdn/soroushmdn/blob/main/portfolio.png' height='200' width='275'>
  </a>
