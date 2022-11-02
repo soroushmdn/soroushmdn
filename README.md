@@ -8,15 +8,15 @@ I really enjoy designing websites in general and I’m currently learning fronte
 
 ## Examples of works
  <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/_D__Web20project_BackPack_index.html.png' height='20' width='20'>
+  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/_D__Web20project_BackPack_index.html.png'>
  </a>
  
   <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src='' height='20' width='20'>
+  <img src=''>
  </a>
  
   <a href="https://soroushmdn.github.io/portfolio/" target="_blank">
-  <img src='' height='20' width='20'>
+  <img src=''>
  </a>
 
 
