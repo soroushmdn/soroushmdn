@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Soroush Karimi.
-I really enjoy designing websites in general and I’m currently learning frontend development.
+I really enjoy designing websites in general and I’m currently learning frontend development & UI Design.
 
 ## skills
 * <img src='https://github.com/soroushmdn/soroushmdn/blob/main/html.png' height='16' width='16'> Html
