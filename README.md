@@ -12,7 +12,7 @@ I really enjoy designing websites in general and I’m currently learning fronte
  </a>
  
   <a href="https://soroushmdn.github.io/irnft/" target="_blank">
-  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/irnft.png' height='200' width='275'>
+  <img style="border-radius: 2rem;" src='https://github.com/soroushmdn/soroushmdn/blob/main/irnft.png' height='200' width='275'>
  </a>
  
   <a href="https://soroushmdn.github.io/mock3/" target="_blank">
