@@ -15,8 +15,8 @@ I really enjoy designing websites in general and I’m currently learning fronte
   <img src='https://github.com/soroushmdn/soroushmdn/blob/main/irnft.png' height='200' width='275'>
  </a>
  
-  <a href="https://soroushmdn.github.io/TECHBOX/" target="_blank">
-  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/techbox.png' height='200' width='275'>
+  <a href="https://soroushmdn.github.io/mock3/" target="_blank">
+  <img src='https://github.com/soroushmdn/soroushmdn/blob/main/mock3.png' height='200' width='275'>
  </a>
  
  
