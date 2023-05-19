@@ -11,7 +11,7 @@ I really enjoy designing websites in general and I’m currently learning fronte
   <img src='https://github.com/soroushmdn/soroushmdn/blob/main/portfolio.png' height='200' width='275'>
  </a>
  
-  <a href="https://soroushmdn.github.io/irnft/" target="_blank">
+  <a style="border-radius: 2rem;" href="https://soroushmdn.github.io/irnft/" target="_blank">
   <img style="border-radius: 2rem;" src='https://github.com/soroushmdn/soroushmdn/blob/main/irnft.png' height='200' width='275'>
  </a>
  
